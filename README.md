@@ -1,8 +1,13 @@
 # GettingCleaningData
 
+## Usage
+
 Put the script in the same directory as the ZIP archive containing the data. 
 Extract the ZIP archive within this directory and run the script. It will
-generate a file named *tidy.csv*.
+generate a file named *tidy.csv* containing a tidy data set with the average
+of each variable for each activity and each subject from the source data set.
+
+## What it does
 
 The analysis script will perform these tasks:
 
