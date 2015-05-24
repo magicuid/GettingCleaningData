@@ -3,7 +3,6 @@
 The two first variables identify the subject and the activity performed. 
 
 * *subject*: numeric ID
-
 * *activity*: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
 Mean and standard variations are available for X/Y/Z axis:
